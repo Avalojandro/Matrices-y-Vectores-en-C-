@@ -1,0 +1,10 @@
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\bin\Debug\ejercicio de matrices.exe.config
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\bin\Debug\ejercicio de matrices.exe
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\bin\Debug\ejercicio de matrices.pdb
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\obj\Debug\ejercicio de matrices.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\obj\Debug\ejercicio_de_matrices.Form1.resources
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\obj\Debug\ejercicio_de_matrices.Properties.Resources.resources
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\obj\Debug\ejercicio de matrices.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\obj\Debug\ejercicio de matrices.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\obj\Debug\ejercicio de matrices.exe
+C:\Users\aleja\Desktop\vs\ejercicio de matrices\ejercicio de matrices\obj\Debug\ejercicio de matrices.pdb
